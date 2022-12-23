@@ -19,7 +19,7 @@
     "name": "Andrea Stella",
     "email": "adr.stella@gmail.com"
   },
-  "repository": "mccxiv/torrent-web",
+  "repository": "imranext/torrent-web",
   "preferGlobal": true,
   "license": "ISC",
   "dependencies": {
